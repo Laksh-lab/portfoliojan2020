@@ -10,7 +10,7 @@ body {
   color: gray ;
 }
 
-@media (min-width: 1500px) {
+@media (min-width: 980px) {
   body {
     padding-top: 0;
     padding-left: 17rem;
